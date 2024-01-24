@@ -1,0 +1,23 @@
+[
+  {
+    "ticketId": "123456",
+    "title": "demo 1",
+    "genre": "",
+    "timings": "123456789",
+    "isAvailable": true
+  },
+  {
+    "ticketId": "123457",
+    "title": "demo 2",
+    "genre": "",
+    "timings": "1234567810",
+    "isAvailable": true
+  },
+  {
+    "ticketId": "123458",
+    "title": "demo 2",
+    "genre": "",
+    "timings": "1234567810",
+    "isAvailable": false
+  }
+]
